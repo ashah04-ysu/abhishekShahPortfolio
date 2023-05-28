@@ -17,4 +17,4 @@ I am a dedicated and detail-oriented individual with a Master of Science in Comp
 
 ## myResume
 
-![App Screenshot](https://github.com/ashah04-ysu/abhishekShahPortfoilio/blob/main/Abhishek_Shah_Resume_Jan-page-001.jpg?raw=truehttps://github.com/ashah04-ysu/abhishekShahPortfoilio/blob/main/Abhishek_Shah_Resume_Jan-page-001.jpg?raw=true)
+![App Screenshot](https://github.com/ashah04-ysu/abhishekShahPortfoilio/blob/main/resume.jpg?raw=truehttps://github.com/ashah04-ysu/abhishekShahPortfoilio/blob/main/Abhishek_Shah_Resume_Jan-page-001.jpg?raw=true)
